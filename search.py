@@ -20,6 +20,7 @@ Pacman agents (in searchAgents.py).
 """
 
 import util
+from node import Node
 
 
 class SearchProblem:
